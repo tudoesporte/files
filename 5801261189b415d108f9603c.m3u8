@@ -2,11 +2,11 @@
 #EXT-X-VERSION:3
 #EXT-X-MDSTRM-CDN-VERSION:2
 #EXT-X-STREAM-INF:BANDWIDTH=545600,RESOLUTION=426x240
-http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_400.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&es=vrzn-ei-ee.cdn.mdstrm.com&proto=http&pz=br
+http://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801261189b415d108f9603c/publish/media_400.m3u8?es=mdstrmpmd-a.akamaihd.net&proto=http&pz=br
 #EXT-X-STREAM-INF:BANDWIDTH=985600,RESOLUTION=640x360
-http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&es=vrzn-ei-ee.cdn.mdstrm.com&proto=http&pz=br
+http://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?es=mdstrmpmd-a.akamaihd.net&proto=http&pz=br
 #EXT-X-STREAM-INF:BANDWIDTH=1425600,RESOLUTION=854x480
-http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_1200.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&es=vrzn-ei-ee.cdn.mdstrm.com&proto=http&pz=br
+http://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801261189b415d108f9603c/publish/media_1200.m3u8?es=mdstrmpmd-a.akamaihd.net&proto=http&pz=br
 #EXT-X-STREAM-INF:BANDWIDTH=2855600,RESOLUTION=1280x720
-http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&es=vrzn-ei-ee.cdn.mdstrm.com&proto=http&pz=br
+http://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=mdstrmpmd-a.akamaihd.net&proto=http&pz=br
 
